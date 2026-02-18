@@ -1,6 +1,7 @@
 # HR-Management-System-Database
 
 HR Management System Database
+
 📝 Project Overview
 This project involves the design and implementation of a relational database for a Human Resources Management System (HRMS). The goal is to streamline employee data management, track organizational hierarchies, and manage payroll and performance history efficiently.
 
